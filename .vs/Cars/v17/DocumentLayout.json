@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\cars\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|solutionrelative:cars\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|c:\\users\\user1\\desktop\\ekshtein\\cars\\cars\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|solutionrelative:cars\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\cars\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|solutionrelative:cars\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\cars\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFB85B4-1B6C-4EAF-87D7-EA60642E0222}|Cars\\Cars.csproj|solutionrelative:cars\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Cars\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Cars\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wDoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:11:31.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Cars\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Entities\\Order.cs",
+              "RelativeToolTip": "Cars\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T07:24:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Cars\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Cars\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwI0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T07:02:52.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Cars\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Ekshtein\\Cars\\Cars\\Entities\\User.cs",
+              "RelativeToolTip": "Cars\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T06:58:41.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
